@@ -1,0 +1,14 @@
+services:
+  keepa-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Needed for Search Products, Deals and Search Categories (and refresh /
+      # include_buy_box on Product Details). Product details, price history,
+      # international prices and variations work without it.
+      # - CAPSOLVER_API_KEY=CAP-...
+      # Optional. No proxy needed: Keepa answers every call from your own connection.
+      # - KEEPA_PROXY=http://user:pass@host:port

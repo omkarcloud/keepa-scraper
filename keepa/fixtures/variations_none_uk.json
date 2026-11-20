@@ -1,0 +1,199 @@
+{
+ "basicProducts": [
+  {
+   "asin": "B07Z14CY6R",
+   "categories": [
+    4913457031
+   ],
+   "domainId": 2,
+   "eanList": [
+    "0065030883221"
+   ],
+   "gtinList": [
+    "00065030883221"
+   ],
+   "images": [
+    {
+     "l": "71R9qIiZauL.jpg",
+     "lH": 2560,
+     "lW": 2560,
+     "m": "41tshaTG5JL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "MAIN"
+    },
+    {
+     "l": "71ydh1igNoL.jpg",
+     "lH": 2560,
+     "lW": 2560,
+     "m": "41sxRfQAggL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT01"
+    },
+    {
+     "l": "81dQP8SHZYL.jpg",
+     "lH": 2560,
+     "lW": 2560,
+     "m": "41EV5VNH8rL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT02"
+    },
+    {
+     "l": "81mfMWXPDJL.jpg",
+     "lH": 2560,
+     "lW": 2560,
+     "m": "41szsrau2pL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT03"
+    }
+   ],
+   "itemHighlights": "100BASE-FX, 100MbE Multi-Mode Fibre Multimode Fibre / Single Mode Fibre, 1310nm, DDM, 100Mb Ethernet SFP, SMF",
+   "lastPriceChange": 8354061,
+   "lastUpdate": 8355565,
+   "manufacturer": "StarTech.com",
+   "productType": 0,
+   "stats": {
+    "current": [
+     1242,
+     1242,
+     -1,
+     -1,
+     6359,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     1,
+     -1,
+     -1,
+     -1,
+     1,
+     43,
+     3,
+     1242,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -2,
+     -1
+    ],
+    "min": [
+     [
+      8353935,
+      1240
+     ],
+     [
+      8353935,
+      1240
+     ],
+     null,
+     null,
+     [
+      8103532,
+      6359
+     ],
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     [
+      8353935,
+      1240
+     ],
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "outOfStockPercentage90": [
+     39,
+     39,
+     100,
+     -1,
+     0,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     39,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1
+    ]
+   },
+   "title": "StarTech Dell EMC SFP-100M-FX Compatible SFP Module, LC 2km (SFP100MFXEMS)",
+   "trackingSince": 8088000,
+   "upcList": [
+    "065030883221"
+   ]
+  }
+ ],
+ "id": 3385,
+ "lastUpdate": 0,
+ "startTimeStamp": 1795175585394,
+ "status": 200,
+ "timeStamp": 1795175585395,
+ "version": 3
+}

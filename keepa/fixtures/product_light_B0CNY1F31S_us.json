@@ -1,0 +1,276 @@
+{
+ "basicProducts": [
+  {
+   "asin": "B0CNY1F31S",
+   "categories": [
+    17659096011
+   ],
+   "domainId": 1,
+   "eanList": [
+    "0810087847654"
+   ],
+   "gtinList": [
+    "60810087847656"
+   ],
+   "images": [
+    {
+     "l": "71Ld+1SBc5L.jpg",
+     "lH": 2241,
+     "lW": 2241,
+     "m": "41sufOtQorL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "MAIN"
+    },
+    {
+     "l": "91dLw1UQI6L.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "51MvYB8qk2L.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT02"
+    },
+    {
+     "l": "81JmnKKQmiL.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "51aR-EWCkOL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT03"
+    },
+    {
+     "l": "71afoZbRSML.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "41VpWL3wRAL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT04"
+    },
+    {
+     "l": "718XTj5NmNL.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "51MyqkEYDJL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT05"
+    },
+    {
+     "l": "814hmweKc8L.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "5128c6JwYzL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT06"
+    },
+    {
+     "l": "61-AFhVKAhL.jpg",
+     "lH": 2000,
+     "lW": 2000,
+     "m": "41nzuGv3ChL.jpg",
+     "mH": 500,
+     "mW": 500,
+     "variant": "PT07"
+    }
+   ],
+   "lastPriceChange": 8355363,
+   "lastUpdate": 8355559,
+   "manufacturer": "Chefman",
+   "parentAsin": "B0HQNZW4FH",
+   "productType": 0,
+   "stats": {
+    "current": [
+     4999,
+     4999,
+     4399,
+     -2,
+     9999,
+     -1,
+     -1,
+     -1,
+     -1,
+     4399,
+     -1,
+     1,
+     12,
+     -1,
+     -1,
+     -7,
+     46,
+     7607,
+     4999,
+     4549,
+     4499,
+     4581,
+     4399,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -2,
+     -1,
+     -2,
+     -2
+    ],
+    "min": [
+     [
+      7882244,
+      4997
+     ],
+     [
+      7882180,
+      4997
+     ],
+     [
+      7942300,
+      3175
+     ],
+     null,
+     [
+      7052538,
+      9999
+     ],
+     null,
+     null,
+     [
+      8221806,
+      6949
+     ],
+     [
+      7638180,
+      4999
+     ],
+     [
+      7941896,
+      3175
+     ],
+     [
+      7178302,
+      7499
+     ],
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     [
+      7882244,
+      4997
+     ],
+     [
+      7941896,
+      3283
+     ],
+     [
+      7941896,
+      3247
+     ],
+     [
+      7931804,
+      3465
+     ],
+     [
+      7941896,
+      3175
+     ],
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     [
+      7638194,
+      4999
+     ],
+     null,
+     null
+    ],
+    "outOfStockPercentage90": [
+     3,
+     3,
+     3,
+     -1,
+     0,
+     -1,
+     -1,
+     47,
+     100,
+     0,
+     100,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     0,
+     0,
+     21,
+     76,
+     12,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     -1,
+     85,
+     -1,
+     -1
+    ]
+   },
+   "title": "Chefman Air Fryer \u2013 4 QT Compact Airfryer for Quick & Easy Meals in Minutes, Features Hi-Fry Technology for Extra Crisp, Touchscreen Controls with 4 Presets, Nonstick & Dishwasher Safe Basket - Black",
+   "trackingSince": 7042886,
+   "upcList": [
+    "810087847654"
+   ],
+   "variations": [
+    {
+     "asin": "B0CNY1F31S",
+     "attributes": [
+      {
+       "dimension": "Capacity",
+       "value": "4 quarts"
+      }
+     ]
+    },
+    {
+     "asin": "B0CNY1YVDD",
+     "attributes": [
+      {
+       "dimension": "Capacity",
+       "value": "6 quarts"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "id": 3384,
+ "lastUpdate": 0,
+ "startTimeStamp": 1795175585228,
+ "status": 200,
+ "timeStamp": 1795175585229,
+ "version": 3
+}

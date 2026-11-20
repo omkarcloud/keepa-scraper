@@ -1,0 +1,1004 @@
+{
+ "categories": {
+  "3238155011": {
+   "catId": 3238155011,
+   "children": [
+    215739575011,
+    553632,
+    1272941011,
+    552808,
+    553760,
+    3043471,
+    13638732011,
+    13400641,
+    553844,
+    4619352011,
+    3610851,
+    551242,
+    553824,
+    553788
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 2972638011,
+   "productCount": 333044
+  },
+  "6": {
+   "catId": 6,
+   "children": [
+    4262,
+    4327,
+    7661753011,
+    4208,
+    4234,
+    4245,
+    4219,
+    4336,
+    4251,
+    4196,
+    4256,
+    4207,
+    17745806011,
+    4233,
+    4229,
+    4201,
+    4252,
+    4317,
+    4257
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Cookbooks, Food & Wine",
+   "parent": 1000,
+   "productCount": 1163759
+  },
+  "23691551011": {
+   "catId": 23691551011,
+   "children": [
+    8521400011,
+    3744061
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Furniture",
+   "parent": 1063306,
+   "productCount": 105080
+  },
+  "3754161": {
+   "catId": 3754161,
+   "children": [
+    680338011,
+    13397631,
+    680350011,
+    680340011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen & Bath Fixtures",
+   "parent": 468240,
+   "productCount": 1820565
+  },
+  "493964": {
+   "catId": 493964,
+   "children": [
+    21608215011,
+    502394,
+    541966,
+    3248684011,
+    21608214011,
+    2242348011,
+    2811119011,
+    172526,
+    2642125011,
+    1266092011,
+    10048700011,
+    24046923011,
+    172623,
+    524136,
+    667846011,
+    281407,
+    300334
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 172282,
+   "productCount": 176552
+  },
+  "3744311": {
+   "catId": 3744311,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Towel Hooks",
+   "parent": 23691552011,
+   "productCount": 10634
+  },
+  "374819011": {
+   "catId": 374819011,
+   "children": [
+    2423130011,
+    374860011,
+    2311723011,
+    374875011,
+    374822011,
+    2311724011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Home & Kitchen",
+   "parent": 3386071,
+   "productCount": 357031
+  },
+  "2972638011": {
+   "catId": 2972638011,
+   "children": [
+    3238155011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Patio, Lawn & Garden",
+   "parent": 0,
+   "productCount": 23852658
+  },
+  "283155": {
+   "catId": 283155,
+   "children": [
+    1000,
+    44258011,
+    465600,
+    684300011,
+    3248857011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Books",
+   "parent": 0,
+   "productCount": 122231710
+  },
+  "468240": {
+   "catId": 468240,
+   "children": [
+    8106310011,
+    13397451,
+    495224,
+    328182011,
+    553244,
+    322525011,
+    551240,
+    13400631,
+    3180231,
+    13749581,
+    228899,
+    495266,
+    511228,
+    3754161
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 228013,
+   "productCount": 251857
+  },
+  "1063306": {
+   "catId": 1063306,
+   "children": [
+    16543322011,
+    1063314,
+    3249856011,
+    1063308,
+    5422303011,
+    23691551011,
+    1063318,
+    1063312,
+    3733781,
+    8516080011,
+    5392425011,
+    13552765011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Furniture",
+   "parent": 1063498,
+   "productCount": 6567609
+  },
+  "680341011": {
+   "catId": 680341011,
+   "children": [
+    3754311,
+    3754331,
+    10425131011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Faucets",
+   "parent": 680340011,
+   "productCount": 43352
+  },
+  "4256": {
+   "catId": 4256,
+   "children": [
+    7661745011,
+    7661739011,
+    7661738011,
+    7661747011,
+    7661751011,
+    7661749011,
+    7661744011,
+    7661750011,
+    7661748011,
+    7661740011,
+    7661743011,
+    7661742011,
+    7661741011,
+    7661746011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Appliances",
+   "parent": 6,
+   "productCount": 27655
+  },
+  "3375251": {
+   "catId": 3375251,
+   "children": [
+    3375301,
+    11130425011,
+    51576011,
+    11130424011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Sports & Outdoors",
+   "parent": 0,
+   "productCount": 22328760
+  },
+  "11260432011": {
+   "catId": 11260432011,
+   "children": [
+    11260433011,
+    121190727011,
+    121190752011,
+    121179460011,
+    121190509011,
+    121190630011,
+    121190502011,
+    121190508011,
+    121190632011,
+    222845378011,
+    223888325011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Handmade Products",
+   "parent": 0,
+   "productCount": 66904
+  },
+  "680340011": {
+   "catId": 680340011,
+   "children": [
+    6810587011,
+    6810575011,
+    680347011,
+    680342011,
+    680341011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Fixtures",
+   "parent": 3754161,
+   "productCount": 299978
+  },
+  "3744031": {
+   "catId": 3744031,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Storage & Organization Accessories",
+   "parent": 510136,
+   "productCount": 235309
+  },
+  "553760": {
+   "catId": 553760,
+   "children": [
+    2253417011,
+    13638730011,
+    553776,
+    328983011,
+    3742161,
+    13299251
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Grills & Outdoor Cooking",
+   "parent": 3238155011,
+   "productCount": 704135
+  },
+  "23944789011": {
+   "catId": 23944789011,
+   "children": [
+    289852,
+    13875961,
+    13840861,
+    289858,
+    289862,
+    13840871,
+    13875921,
+    289857,
+    13840851,
+    289859,
+    720777011,
+    19290350011,
+    409670,
+    289864,
+    498926,
+    409656,
+    19290351011,
+    409660,
+    13875911,
+    13875951,
+    3737381
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Knives & Accessories",
+   "parent": 289754,
+   "productCount": 155782
+  },
+  "228013": {
+   "catId": 228013,
+   "children": [
+    468240,
+    468248,
+    120225796011,
+    120225787011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Tools & Home Improvement",
+   "parent": 0,
+   "productCount": 29506776
+  },
+  "23691552011": {
+   "catId": 23691552011,
+   "children": [
+    3744221,
+    289824,
+    13220821,
+    3744311,
+    3743971,
+    3744231,
+    19212770011,
+    3744321,
+    3744201,
+    695483011,
+    16351531,
+    3744251
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Racks & Holders",
+   "parent": 510136,
+   "productCount": 837083
+  },
+  "48": {
+   "catId": 48,
+   "children": [
+    5043,
+    5418,
+    13922613011,
+    14916051,
+    5126,
+    6158312011,
+    5241,
+    5066
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Crafts, Hobbies & Home",
+   "parent": 1000,
+   "productCount": 2080558
+  },
+  "3741961": {
+   "catId": 3741961,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Linen Sets",
+   "parent": 1063916,
+   "productCount": 10637
+  },
+  "667846011": {
+   "catId": 667846011,
+   "children": [
+    12097483011,
+    9977441011,
+    9977443011,
+    9977442011,
+    172563,
+    322215011,
+    3236443011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Home Audio",
+   "parent": 493964,
+   "productCount": 840998
+  },
+  "1055398": {
+   "catId": 1055398,
+   "children": [
+    13900821,
+    1063498,
+    13900811,
+    258599011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Home & Kitchen",
+   "parent": 0,
+   "productCount": 111365840
+  },
+  "155302011": {
+   "catId": 155302011,
+   "children": [
+    3147866011,
+    21589987011,
+    3147865011,
+    21589985011,
+    21589986011,
+    2504394011,
+    10961910011,
+    21589984011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Interior",
+   "parent": 2258019011,
+   "productCount": 178646
+  },
+  "15684181": {
+   "catId": 15684181,
+   "children": [
+    15690151,
+    15690231,
+    2204830011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Automotive",
+   "parent": 0,
+   "productCount": 56505197
+  },
+  "3147866011": {
+   "catId": 3147866011,
+   "children": [
+    19366639011,
+    21589992011,
+    21589993011,
+    21589994011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen",
+   "parent": 155302011,
+   "productCount": 65648
+  },
+  "510136": {
+   "catId": 510136,
+   "children": [
+    21613418011,
+    16188246011,
+    8841480011,
+    23691552011,
+    9768326011,
+    3744031,
+    13750031
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Storage & Organization",
+   "parent": 284507,
+   "productCount": 3527062
+  },
+  "9977441011": {
+   "catId": 9977441011,
+   "children": [
+    3236448011,
+    3236447011,
+    1065910,
+    3236446011,
+    9977444011,
+    2563847011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Compact Radios & Stereos",
+   "parent": 667846011,
+   "productCount": 5817
+  },
+  "15690151": {
+   "catId": 15690151,
+   "children": [
+    15682003011,
+    2230642011,
+    13591416011,
+    15706571,
+    346333011,
+    15710351,
+    2258019011,
+    15718271,
+    15706941,
+    15736321,
+    15857511,
+    15719731,
+    15857501,
+    15718791
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 15684181,
+   "productCount": 767745
+  },
+  "3744241": {
+   "catId": 3744241,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Trash Cans",
+   "parent": 2422453011,
+   "productCount": 164049
+  },
+  "5066": {
+   "catId": 5066,
+   "children": [
+    5078,
+    5089,
+    5083,
+    6383006011,
+    6383005011,
+    5106,
+    5073,
+    5077,
+    6383004011,
+    5104,
+    5076,
+    5118,
+    5100,
+    6383007011,
+    170103,
+    5105,
+    5069,
+    3564983011,
+    5099,
+    170943,
+    6383008011,
+    5091,
+    5074,
+    5110,
+    170121,
+    5092,
+    5067,
+    5068,
+    5121,
+    876684,
+    5103,
+    170944,
+    5085,
+    5072
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Antiques & Collectibles",
+   "parent": 48,
+   "productCount": 215111
+  },
+  "121190509011": {
+   "catId": 121190509011,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Handmade Kitchen & Dining",
+   "parent": 11260432011,
+   "productCount": 142
+  },
+  "3236447011": {
+   "catId": 3236447011,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Radios",
+   "parent": 9977441011,
+   "productCount": 69
+  },
+  "6383006011": {
+   "catId": 6383006011,
+   "children": [
+    5086,
+    5090,
+    5109,
+    5084,
+    5101
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Houseware & Dining",
+   "parent": 5066,
+   "productCount": 7113
+  },
+  "6810575011": {
+   "catId": 6810575011,
+   "children": [
+    3754181,
+    6810576011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Kitchen & Bar Sinks",
+   "parent": 680340011,
+   "productCount": 121423
+  },
+  "2258019011": {
+   "catId": 2258019011,
+   "children": [
+    21580670011,
+    2258026011,
+    21571968011,
+    155287011,
+    155302011,
+    2258022011,
+    21580671011,
+    21571967011,
+    2504395011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "RV Parts & Accessories",
+   "parent": 15690151,
+   "productCount": 690480
+  },
+  "1063498": {
+   "catId": 1063498,
+   "children": [
+    284507,
+    16510975011,
+    510240,
+    3206324011,
+    3736081,
+    510106,
+    10802561,
+    3206325011,
+    901590,
+    13679381,
+    1063252,
+    3610841,
+    1063236,
+    1063278,
+    1063306
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 1055398,
+   "productCount": 709508
+  },
+  "374875011": {
+   "catId": 374875011,
+   "children": [
+    5813555011,
+    375520011,
+    374852011,
+    374885011,
+    374878011,
+    374881011,
+    374884011,
+    374877011,
+    3318555011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen & Dining",
+   "parent": 374819011,
+   "productCount": 392142
+  },
+  "289754": {
+   "catId": 289754,
+   "children": [
+    289802,
+    289798,
+    21331299011,
+    23944790011,
+    289790,
+    16439831,
+    289755,
+    289789,
+    289758,
+    760358,
+    289807,
+    289779,
+    16439851,
+    760356,
+    760384,
+    17548243011,
+    289860,
+    16439891,
+    16439841,
+    289785,
+    23944789011,
+    289867,
+    3737191,
+    760354
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Utensils & Gadgets",
+   "parent": 284507,
+   "productCount": 3542208
+  },
+  "284507": {
+   "catId": 284507,
+   "children": [
+    979832011,
+    1063916,
+    13299291,
+    289668,
+    510202,
+    915194,
+    13162311,
+    1267449011,
+    510136,
+    289814,
+    289913,
+    289754,
+    9630569011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen & Dining",
+   "parent": 1063498,
+   "productCount": 25423897
+  },
+  "5090": {
+   "catId": 5090,
+   "children": null,
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchenware",
+   "parent": 6383006011,
+   "productCount": 3953
+  },
+  "2253417011": {
+   "catId": 2253417011,
+   "children": [
+    13299191,
+    13299131
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Outdoor Kitchen Appliances & Storage",
+   "parent": 553760,
+   "productCount": 174638
+  },
+  "3386071": {
+   "catId": 3386071,
+   "children": [
+    375518011,
+    2431377011,
+    5769002011,
+    5768574011,
+    374773011,
+    374916011,
+    374742011,
+    374927011,
+    3209246011,
+    374893011,
+    2311740011,
+    374783011,
+    374819011,
+    375519011,
+    18882554011,
+    374747011,
+    2309018011,
+    2309443011,
+    3209250011,
+    5769001011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Fan Shop",
+   "parent": 3375301,
+   "productCount": 6763579
+  },
+  "1000": {
+   "catId": 1000,
+   "children": [
+    6,
+    28,
+    4366,
+    26,
+    10777,
+    48,
+    173507,
+    8975347011,
+    4736,
+    27,
+    173514,
+    5,
+    18,
+    9,
+    4,
+    75,
+    1,
+    2,
+    25,
+    3377866011,
+    3,
+    10,
+    23,
+    20,
+    22,
+    5267710011,
+    86,
+    21,
+    301889,
+    17
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Subjects",
+   "parent": 283155,
+   "productCount": 122634166
+  },
+  "3610841": {
+   "catId": 3610841,
+   "children": [
+    2423741011,
+    16175642011,
+    3744341,
+    2422453011,
+    2422430011,
+    2423187011,
+    3744261,
+    16175640011,
+    2422463011,
+    11601921011,
+    2422451011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Storage & Organization",
+   "parent": 1063498,
+   "productCount": 3194038
+  },
+  "2422453011": {
+   "catId": 2422453011,
+   "children": [
+    3744051,
+    16186594011,
+    695485011,
+    11601926011,
+    16353701,
+    3744241,
+    11601925011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Trash, Recycling & Compost",
+   "parent": 3610841,
+   "productCount": 343084
+  },
+  "3375301": {
+   "catId": 3375301,
+   "children": [
+    23466320011,
+    2358921011,
+    3407731,
+    3422351,
+    10971181011,
+    3394801,
+    706813011,
+    3386071,
+    706814011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Categories",
+   "parent": 3375251,
+   "productCount": 764226
+  },
+  "680342011": {
+   "catId": 680342011,
+   "children": [
+    6810582011,
+    6810581011,
+    6810586011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Sink Accessories",
+   "parent": 680340011,
+   "productCount": 87021
+  },
+  "172282": {
+   "catId": 172282,
+   "children": [
+    493964,
+    13900851,
+    13900871,
+    2527553011,
+    7926841011
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "name": "Electronics",
+   "parent": 0,
+   "productCount": 20224717
+  },
+  "1063916": {
+   "catId": 1063916,
+   "children": [
+    3118182011,
+    3741971,
+    3742011,
+    668145011,
+    3742021,
+    6054384011,
+    3735851,
+    3742001,
+    3741991,
+    3742031,
+    644050011,
+    3741981,
+    3741961
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen & Table Linens",
+   "parent": 284507,
+   "productCount": 4432320
+  },
+  "3754181": {
+   "catId": 3754181,
+   "children": [
+    3754751,
+    3754691,
+    3754721
+   ],
+   "domainId": 1,
+   "isBrowseNode": true,
+   "matched": true,
+   "name": "Kitchen Sinks",
+   "parent": 6810575011,
+   "productCount": 115145
+  }
+ },
+ "id": 6570,
+ "lastUpdate": 0,
+ "startTimeStamp": 1795171914141,
+ "status": 200,
+ "timeStamp": 1795171914146,
+ "version": 3
+}
